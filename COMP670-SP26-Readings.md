@@ -13,18 +13,18 @@ You have free access to these books with your Franklin student credentials.
 
  - RL: Winder, P. (2020). Reinforcement learning: Industrial applications of intelligent agents. O'Reilly Media.  https://learning.oreilly.com/library/view/reinforcement-learning/9781492072386/
 
-**Weekly Readings**
+**Weekly Readings:**
 
 | Week | Topic | Required Readings & Resources |
 | :--- | :--- | :--- |
-| **1** | **Intro to AI** | AI: 1.1, 1.2, 1.4, 1.7 |
-| **2** | **Search (Uninformed & Informed)** | AI: 3.1 to 3.6, 3.9 |
-| **3** | **Game & Adversarial Search** | AI: 14.1, 14.2, 14.3, 14.7.3 |
-| **4** | **Knowledge Graphs (KG)** | KG: Chapters 1 & 3 (Cypher)<br>Memgraph: [Fundamentals](https://memgraph.com/docs/fundamentals) (Constraints, Data types), [Data Modeling](https://memgraph.com/docs/data-modeling), [Querying](https://memgraph.com/docs/querying) |
-| **5** | **ML: Supervised** | AI: 7.1 to 7.7 |
-| **6** | **ML: Unsupervised** | AI: 10.3 |
-| **7** | **ANN** | AI: 8.1 to 8.3 |
-| **8** | **Deep Learning (DL)** | GDL: Chapter 1<br>*Optional:* [Transformer Explainer](https://poloclub.github.io/transformer-explainer/), [Transformers Blog](https://peterbloem.nl/blog/transformers) |
-| **9** | **Generative Modeling** | GDL: Chapters 1 & 3 |
-| **10** | **Genetic Algorithm** | GA: Chapters 1 & 2 |
-| **11** | **Reinforcement Learning (RL)** | RL: Chapters 1 & 2 |
+| **1** | **Intro to AI** | [AI](https://artint.info/index.html): 1.1, 1.2, 1.4, 1.7 |
+| **2** | **Search (Uninformed & Informed)** | [AI](https://artint.info/index.html): 3.1 to 3.6, 3.9 |
+| **3** | **Game & Adversarial Search** | [AI](https://artint.info/index.html): 14.1, 14.2, 14.3, 14.7.3 |
+| **4** | **Knowledge Graphs (KG)** | [KG](https://learning.oreilly.com/library/view/building-knowledge-graphs/9781098127091/): Chapters 1 & 3 (Cypher)<br>Memgraph: [Fundamentals](https://memgraph.com/docs/fundamentals) (Constraints, Data types), [Modeling](https://memgraph.com/docs/data-modeling), [Querying](https://memgraph.com/docs/querying) |
+| **5** | **ML: Supervised** | [AI](https://artint.info/index.html): 7.1 to 7.7 |
+| **6** | **ML: Unsupervised** | [AI](https://artint.info/index.html): 10.3 |
+| **7** | **ANN** | [AI](https://artint.info/index.html): 8.1 to 8.3 |
+| **8** | **Deep Learning (DL)** | [GDL](https://learning.oreilly.com/library/view/generative-deep-learning/9781098134174/): Chapter 1<br>*Optional:* [Transformer Explainer](https://poloclub.github.io/transformer-explainer/), [Transformers Blog](https://peterbloem.nl/blog/transformers) |
+| **9** | **Generative Modeling** | [GDL](https://learning.oreilly.com/library/view/generative-deep-learning/9781098134174/): Chapters 1 & 3 |
+| **10** | **Genetic Algorithm** | [GA](https://learning.oreilly.com/library/view/hands-on-genetic-algorithms/9781805123798/): Chapters 1 & 2 |
+| **11** | **Reinforcement Learning (RL)** | [RL](https://learning.oreilly.com/library/view/reinforcement-learning/9781492072386/): Chapters 1 & 2 |
