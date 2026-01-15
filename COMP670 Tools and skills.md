@@ -1,17 +1,17 @@
 We will use a variety of software tools for homework assignments and projects.
 
 Required skills:
-- Intermediary programming skills in Java and Python
+- Intermediary programming skills in Python
 - Basic searching algorithms
-- Basic First Order Logic
 
 Preferred skills:
 - Fundamental knowledge in probability
-- Basic linear algebra knowledge such as vectors, matrix
+- Basic linear algebra knowledge, such as vectors, matrices
 
-Software tools:
-- Eclipse and Java
-- Rasa Open Source and Rasa X
+Software and tools:
+- VSCode (or your preferred Python IDE)
+- LlamaIndex
+- Chainlit
 - Basic knowledge of Linux commands
-- KNIME
+- Jupyter Notebook
 - Google Colab
